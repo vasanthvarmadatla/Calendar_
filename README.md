@@ -1,12 +1,11 @@
-![Screenshot (37)](https://github.com/user-attachments/assets/bd63b8bd-b2db-450e-9ca1-7c5cf99bc54a)
-![Screenshot (38)](https://github.com/user-attachments/assets/c1c71510-8e8b-4c14-9b11-6ac0074ef724)
-![Screenshot (45)](https://github.com/user-attachments/assets/9d2d8b7c-119f-4ff1-996e-8ffbe257fcea)
-![Screenshot (44)](https://github.com/user-attachments/assets/28c4cdb7-be85-485b-80c3-958b91ffc7b4)
-![Screenshot (43)](https://github.com/user-attachments/assets/a30813aa-a277-4ad0-8c5f-d96565a4b0f4)
-![Screenshot (42)](https://github.com/user-attachments/assets/ad8511b1-2c88-4f27-aa5c-f77ca47e5574)
-![Screenshot (41)](https://github.com/user-attachments/assets/c2f5e2e1-b68f-448d-9236-09610ecd0e61)
-![Screenshot (40)](https://github.com/user-attachments/assets/583a44b1-d10e-4230-bc1f-4ed79d7ba93c)
-![Screenshot (39)](https://github.com/user-attachments/assets/141f5efc-0481-456e-8a88-8de64cf48d50)
+Hosted page: https://vasanthcalendar.netlify.app/
 
-
-(https://github.com/user-attachments/assets/583a44b1-d10e-4230-bc1f-4ed79d7ba93c)
+![Screenshot (53)](https://github.com/user-attachments/assets/2b606a07-1e27-4dae-a75a-b7696571aeeb)
+![Screenshot (52)](https://github.com/user-attachments/assets/d0e9e538-c2c9-4e12-8f19-5b86e72dc8c6)
+![Screenshot (51)](https://github.com/user-attachments/assets/d0c6d56e-0844-42df-a02b-3996d9fc0c5f)
+![Screenshot (50)](https://github.com/user-attachments/assets/4110cc33-1658-45ae-b5aa-376470a9eb4b)
+![Screenshot (49)](https://github.com/user-attachments/assets/b22a2984-d08f-4461-816b-c3b1b784a885)
+![Screenshot (48)](https://github.com/user-attachments/assets/76d5f3a6-dc56-4fb5-a2d8-9f36bf6800f7)
+![Screenshot (47)](https://github.com/user-attachments/assets/d0a6b146-9ea8-4603-b9a7-c6bd875da546)
+![Screenshot (46)](https://github.com/user-attachments/assets/160ccb49-ad20-4d2b-9039-dbf1502d2787)
+![Screenshot (54)](https://github.com/user-attachments/assets/2ad29bea-85ba-4e14-8f09-90c3d2ef57f4)
