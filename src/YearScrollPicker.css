@@ -1,0 +1,49 @@
+.year-scroll-modal {
+  position: fixed;
+  inset: 0;
+  background: rgba(30, 41, 59, 0.18);
+  z-index: 100;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.year-scroll-content {
+  background: #fff;
+  border-radius: 18px;
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.18);
+  padding: 32px 28px 24px 28px;
+  min-width: 220px;
+  max-width: 90vw;
+  position: relative;
+  animation: modalIn 0.18s cubic-bezier(.4,2,.6,1) both;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.year-scroll-list {
+  max-height: 320px;
+  min-height: 220px;
+  width: 120px;
+  overflow-y: auto;
+  margin-top: 18px;
+  margin-bottom: 8px;
+  border-radius: 12px;
+  background: #f3f6fd;
+  box-shadow: 0 1px 4px rgba(60,60,120,0.07);
+  scrollbar-width: thin;
+}
+.year-scroll-item {
+  padding: 12px 0;
+  text-align: center;
+  font-size: 1.18rem;
+  color: #3730a3;
+  cursor: pointer;
+  border-radius: 8px;
+  transition: background 0.15s, color 0.15s, transform 0.15s;
+  font-weight: 500;
+}
+.year-scroll-item.selected, .year-scroll-item:hover {
+  background: #6366f1;
+  color: #fff;
+  transform: scale(1.08);
+}

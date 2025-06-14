@@ -1,0 +1,54 @@
+.calendar-overlay {
+  position: relative;
+  margin-left: 0;
+  margin-top: 3vh;
+  background: linear-gradient(120deg, rgba(255,255,255,0.22) 0%, rgba(255,255,255,0.10) 100%);
+  box-shadow: 0 8px 32px 0 rgba(80, 60, 180, 0.18);
+  backdrop-filter: blur(24px) saturate(1.4);
+  border-radius: 32px;
+  border: 1.5px solid rgba(255,255,255,0.35);
+  padding: 2vw 2vw 2.5vw 2vw;
+  min-width: 320px;
+  max-width: 1200px;
+  width: 100%;
+  min-height: 70vh;
+  height: 85vh;
+  z-index: 5;
+  overflow: visible;
+  transition: box-shadow 0.2s, background 0.2s;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.calendar-overlay::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 40%;
+  border-radius: 32px 32px 80px 80px/32px 32px 60px 60px;
+  background: linear-gradient(120deg, rgba(255,255,255,0.45) 0%, rgba(255,255,255,0.08) 100%);
+  opacity: 0.55;
+  pointer-events: none;
+  z-index: 10;
+  filter: blur(2px);
+}
+@media (max-width: 1200px) {
+  .calendar-overlay {
+    max-width: 98vw;
+    padding: 2vw 1vw 2vw 1vw;
+    height: 80vh;
+  }
+}
+@media (max-width: 900px) {
+  .calendar-overlay {
+    margin-left: 0;
+    margin-top: 2vw;
+    width: 98vw;
+    padding: 2vw 1vw 2vw 1vw;
+    border-radius: 18px;
+    min-height: 60vh;
+    height: 80vh;
+  }
+}
